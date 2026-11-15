@@ -1,14 +1,14 @@
-# Obrion — Free Roblox Lua/Luau Script Obfuscator
+# Obrion - Free Roblox Lua/Luau Script Obfuscator
 
 **[obrion.xyz](https://www.obrion.xyz)** is a free online obfuscator for Roblox
-Lua and Luau scripts. Paste a script, get protected output back — no download,
+Lua and Luau scripts. Paste a script, get protected output back - no download,
 no setup, no paywall.
 
 ## Why obfuscate?
 
 Roblox scripts are delivered to the client as Lua bytecode. Anyone with an
 executor can dump and read your source. Obfuscation doesn't make theft
-impossible — nothing does — but it raises the cost from "copy-paste" to
+impossible - nothing does - but it raises the cost from "copy-paste" to
 "hours of manual deobfuscation work," which stops the vast majority of
 script theft in practice.
 
@@ -21,7 +21,7 @@ script theft in practice.
 ## Features
 
 - Free, no account required to try it
-- Lua and Luau compatible output — runs on Roblox and standard executors
+- Lua and Luau compatible output - runs on Roblox and standard executors
 - Browser-based: nothing to install
 - Fast: obfuscation takes seconds
 
